@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+V Simran 
+2nd year BTECH
+MNNIT ALLAHABAD
